@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+frontend/node_modules/
+frontend/dist/
+frontend/coverage/
+
+.datasheet-reader-data/
+*.log
+.DS_Store
